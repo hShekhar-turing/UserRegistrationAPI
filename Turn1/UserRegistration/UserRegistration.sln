@@ -11,6 +11,8 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "registrationapp.client", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationTest", "..\RegistrationTest\RegistrationTest.csproj", "{6894D158-B66D-4D1C-8B8F-C7B52BEF3CAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelATest", "..\ModelATest\ModelATest.csproj", "{053F6C99-86D9-4CDE-A2A6-AC1DF335DE91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{6894D158-B66D-4D1C-8B8F-C7B52BEF3CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6894D158-B66D-4D1C-8B8F-C7B52BEF3CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6894D158-B66D-4D1C-8B8F-C7B52BEF3CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053F6C99-86D9-4CDE-A2A6-AC1DF335DE91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053F6C99-86D9-4CDE-A2A6-AC1DF335DE91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053F6C99-86D9-4CDE-A2A6-AC1DF335DE91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053F6C99-86D9-4CDE-A2A6-AC1DF335DE91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
